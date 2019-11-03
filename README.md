@@ -49,6 +49,8 @@ this program use python, pillow, pyinstaller.
 
 chobocomputer@gmail.com
 
+https://youtu.be/DR0DH6D5pDw
+
 ![](/image/1.png)
 ![](/image/2.png)
 ![](/image/3.png)
